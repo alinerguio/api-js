@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "descricao": "Limpar a casa",
+    "data": "2021-03-26T12:10:21.729Z",
+    "completa": false
+  },
+  {
+    "id": 2,
+    "descricao": "REO SD",
+    "data": "2021-03-24T03:06:21.729Z",
+    "completa": true
+  },
+  {
+    "id": 3,
+    "descricao": "Ler livro de ficção",
+    "data": "2021-03-20T10:01:21.729Z",
+    "completa": true
+  },
+  {
+    "id": 4,
+    "descricao": "Passear com cachorro",
+    "data": "2021-04-03T11:00:21.729Z",
+    "completa": false
+  },
+  {
+    "id": 5,
+    "descricao": "Ir ao supermercado",
+    "data": "2021-03-22T09:30:21.729Z",
+    "completa": true
+  }  
+]
