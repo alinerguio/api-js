@@ -1,6 +1,9 @@
 # API em JS
 
 API feita para a disciplina de Sistemas Distribuídos.
+## Sobre
+
+Essa API é de um Gerenciador de Tarefas, onde é possível fazer requisições de GET, POST, DELETE e PUT das tarefas. As tarefas estão armazenadas no arquivo json, com seus respectivos atributos.
 
 ## Execução
 
